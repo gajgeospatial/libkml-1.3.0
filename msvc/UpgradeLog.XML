@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libkml">
+</Property><Property Name="Solution File" Value="D:\Development\op3d_active\libkml\msvc\libkml.sln">
+</Property><Property Name="User Options File" Value="D:\Development\op3d_active\libkml\msvc\libkml.suo">
+</Property><Property Name="Date" Value="Thursday, November 29, 2012">
+</Property><Property Name="Time" Value="20:11 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="libkml.sln" Description="File successfully backed up as D:\Development\op3d_active\libkml\msvc\libkml.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="libkml.suo" Description="File successfully backed up as D:\Development\op3d_active\libkml\msvc\libkml.suo.old">
+</Event><Event ErrorLevel="1" Project="libkmldom" Source="libkmldom.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="libkmldom" Source="libkmldom.vcproj" Description="Project file successfully backed up as 'D:\Development\op3d_active\libkml\msvc\libkmldom.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="libkmldom" Source="libkmldom.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libkmldom" Source="libkmldom.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libkmlengine" Source="libkmlengine.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="libkmlengine" Source="libkmlengine.vcproj" Description="Project file successfully backed up as 'D:\Development\op3d_active\libkml\msvc\libkmlengine.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="libkmlengine" Source="libkmlengine.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libkmlengine" Source="libkmlengine.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libkmlregionator" Source="libkmlregionator.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="libkmlregionator" Source="libkmlregionator.vcproj" Description="Project file successfully backed up as 'D:\Development\op3d_active\libkml\msvc\libkmlregionator.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="libkmlregionator" Source="libkmlregionator.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libkmlregionator" Source="libkmlregionator.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libkmlconvenience" Source="libkmlconvenience.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="libkmlconvenience" Source="libkmlconvenience.vcproj" Description="Project file successfully backed up as 'D:\Development\op3d_active\libkml\msvc\libkmlconvenience.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="libkmlconvenience" Source="libkmlconvenience.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libkmlconvenience" Source="libkmlconvenience.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libkmlbase" Source="libkmlbase.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="libkmlbase" Source="libkmlbase.vcproj" Description="Project file successfully backed up as 'D:\Development\op3d_active\libkml\msvc\libkmlbase.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="libkmlbase" Source="libkmlbase.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libkmlbase" Source="libkmlbase.vcproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="libkmlxsd" Source="libkmlxsd.vcproj" Description="This application has been updated to include settings related to the User Account Control (UAC) feature of Windows Vista. By default, when run on Windows Vista with UAC enabled, this application is marked to run with the same privileges as the process that launched it. This marking also disables the application from running with virtualization. You can change UAC related settings from the Property Pages of the project.">
+</Event><Event ErrorLevel="0" Project="libkmlxsd" Source="libkmlxsd.vcproj" Description="Project file successfully backed up as 'D:\Development\op3d_active\libkml\msvc\libkmlxsd.vcproj.8.00.old'.">
+</Event><Event ErrorLevel="0" Project="libkmlxsd" Source="libkmlxsd.vcproj" Description="Project upgraded successfully.">
+</Event><Event ErrorLevel="3" Project="libkmlxsd" Source="libkmlxsd.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="libkml.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="libkml.sln" Description="Converted">
+</Event></UpgradeLog>
